@@ -4,4 +4,4 @@ include "../../conf/std.nodebug"
 # We want these probe points, even for non-debug versions
 options 	KDTRACE_MIB_SDT
 
-ident   pfSense
+ident   Netrhino
