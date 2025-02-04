@@ -1,4 +1,4 @@
-#include pfSense-DEBUG
+include Netrhino-DEBUG
 include "../../conf/std.nodebug"
 
 ident   Netrhino
